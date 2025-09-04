@@ -1,6 +1,7 @@
 # Temario-App-Web
 ## Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
-<img width="209" height="166" alt="image" src="https://github.com/user-attachments/assets/e220b4fa-18ea-4ff2-9181-ca666d1f51de" />
+<img width="321" height="173" alt="image" src="https://github.com/user-attachments/assets/31234f54-d801-413a-813f-a256b79e1b5a" />
+
 
 <ins># 1.-Introducción al desarrollo web   </ins>
 El desarrollo web es el proceso de crear y mantener sitios web y aplicaciones que se ejecutan en navegadores y dispositivos conectados a Internet. Este campo combina diferentes tecnologías, lenguajes y herramientas para construir experiencias interactivas y funcionales para los usuarios.
